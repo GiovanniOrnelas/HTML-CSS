@@ -1,0 +1,19 @@
+/* reset */
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}   
+
+/* organizar dos seletores mais amplos para os mais específicos */
+
+#pUm{
+    color: blue;
+    text-align: center;
+}
+
+#pDois{
+    color: brown;
+}
+
+hr{
+   border: black 1px dashed;
+}
