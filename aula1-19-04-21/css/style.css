@@ -1,0 +1,45 @@
+/* reset */
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}   
+
+/* organizar dos seletores mais amplos para os mais específicos */
+
+#pUm{
+    color: blue;
+    text-align: center;
+}
+
+#pDois{
+    color: white;
+    padding-left: 2em;
+}
+
+#pTres{
+    padding-left: 2em;
+    color: white;
+}
+
+#pQuatro{
+    padding-left: 2em;
+    color: white;
+}
+
+#pCinco{
+    padding-left: 2em;
+    color: white;
+}
+
+hr{
+   border: black 1px dashed;
+}
+
+div{
+    background-color: red;
+}
+
+#link{
+    text-decoration: none;
+    color: black;
+    padding-left: 36em;
+}
